@@ -8,7 +8,7 @@ If you are interested, drop me a line here. Cheers !
 
 ## Rules / Settings
 
-Starting scenario : Crashlanded (Standard Classic 3 Colonist), Random Starting location. 
+Starting scenario : Crashlanded (Standard Classic 3 Colonist), Random Starting location.  
 Story Teller: Phoebe Chillax at Challenge difficulty level
 
 ### MODS:
