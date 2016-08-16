@@ -6,12 +6,12 @@ Anyone interested in doing a ''sucession'' game ? I used to do this with people 
 
 If you are interested, drop me a line here. Cheers !
 
-EDIT:
+## Rules / Settings
 
 Starting scenario : Crashlanded (Standard Classic 3 Colonist), Random Starting location. 
 Story Teller: Phoebe Chillax at Challenge difficulty level
 
-MODS:
+### MODS:
 * Community Core 
 * Expanded Prosthetics and Organs 
 * Apparello 2 
