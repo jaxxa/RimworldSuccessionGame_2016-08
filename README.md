@@ -19,5 +19,8 @@ Story Teller: Phoebe Chillax at Challenge difficulty level
 * Medieval Shields 
 * Hospitality 
 
-Simple Rules: One season per player, no reloads. Max 2 days on the game then send it to the other dude (no way to enforce it guys but it will be more fun like that) Document your reign as Overseer send me what you get and I'll try to post it on the Stories board (if someone has a better idea or skills to create a share page where we can add our stories let me know)
+### Simple Rules: 
+* One season per player, no reloads. 
+* Max 2 days on the game then send it to the other dude (no way to enforce it guys but it will be more fun like that) 
+* Document your reign as Overseer send me what you get and I'll try to post it on the Stories board (if someone has a better idea or skills to create a share page where we can add our stories let me know)
  
