@@ -25,3 +25,12 @@ Story Teller: Phoebe Chillax at Challenge difficulty level
 * Max 2 days on the game then send it to the other dude (no way to enforce it guys but it will be more fun like that) 
 * Document your reign as Overseer send me what you get and I'll try to post it on the Stories board (if someone has a better idea or skills to create a share page where we can add our stories let me know)
  
+## Seasons:
+
+| Number | Player | Year | Season | Status |
+| ------------- |-------------| -----|-----|-----|
+|1| s22190 | 5500 | Spring  | Done  |
+|2| Baloun  | 5500 | Summer | Done  |
+|3| PotatoeTater  | 5500 | Autumn | Done  |
+|4| Milon  | 5500 | Winter | Current |
+|5| Jaxxa | 5501 | Spring | Pending |
