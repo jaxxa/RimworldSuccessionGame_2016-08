@@ -27,10 +27,13 @@ Story Teller: Phoebe Chillax at Challenge difficulty level
  
 ## Seasons:
 
-| Number | Player | Year | Season | Status |
-| ------------- |-------------| -----|-----|-----|
-|1| s22190 | 5500 | Spring  | Done  |
-|2| Baloun  | 5500 | Summer | Done  |
-|3| PotatoeTater  | 5500 | Autumn | Done  |
-|4| Milon  | 5500 | Winter | Current |
-|5| Jaxxa | 5501 | Spring | Pending |
+| Number | Player        | Github User | Year | Season  | Status  | Main Pawn                              |
+|--------|---------------|-------------|------|---------|---------|----------------------------------------|
+|1       | s22190        |s22190       | 5500 | Spring  | Done    |Zot Thaler, Mute Lesbian Colonist       |
+|2       | Baloun        |Baloun2      | 5500 | Summer  | Done    |Sabuto Hood, Neurotic Janitor           |
+|3       | PotatoeTater  |Potatoetater | 5500 | Autumn  | Done    |Baker, Cardiac Drifter                  |
+|4       | Milon         |timothycooper| 5500 | Winter  | Current |                                        |
+|5       | Jaxxa         |Jaxxa        | 5501 | Spring  | Pending |                                        |
+|6       | Mr Cross      |Arashi-Cross | 5501 | Summer  | Pending |                                        |
+
+
