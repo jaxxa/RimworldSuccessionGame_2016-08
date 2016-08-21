@@ -12,12 +12,14 @@ Starting scenario : Crashlanded (Standard Classic 3 Colonist), Random Starting l
 Story Teller: Phoebe Chillax at Challenge difficulty level
 
 ### MODS:
-* Community Core 
-* Expanded Prosthetics and Organs 
-* Apparello 2 
-* Medieval Times 
-* Medieval Shields 
-* Hospitality 
+| Mod | Link |
+|-----|-----|
+|Community Core: |https://ludeon.com/forums/index.php?topic=16599.0|
+|Expanded Prosthetics and Organs: |https://ludeon.com/forums/index.php?topic=10571.0|
+|Apparello 2: |https://ludeon.com/forums/index.php?topic=5085.0|
+|Medieval Times: |https://ludeon.com/forums/index.php?topic=22316.0|
+|Medieval Shields: |(On steam) http://steamcommunity.com/sharedfiles/filedetails/?id=728302374|
+|Hospitality: |https://ludeon.com/forums/index.php?topic=11444.0|
 
 ### Simple Rules: 
 * One season per player 
