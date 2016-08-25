@@ -35,7 +35,7 @@ Story Teller: Phoebe Chillax at Challenge difficulty level
 |2       | Baloun        |Baloun2      | 5500 | Summer  | Done    |Sabuto Hood, Neurotic Janitor           |
 |3       | PotatoeTater  |Potatoetater | 5500 | Autumn  | Done    |Baker, Cardiac Drifter                  |
 |4       | Milon         |timothycooper| 5500 | Winter  | Done    |Jono                                    |
-|5       | Jaxxa         |Jaxxa        | 5501 | Spring  | Current |                                        |
-|6       | Mr Cross      |Arashi-Cross | 5501 | Summer  | Pending |                                        |
+|5       | Jaxxa         |Jaxxa        | 5501 | Spring  | Done    |Lucero                                  |
+|6       | Mr Cross      |Arashi-Cross | 5501 | Summer  | Current |                                        |
 
 
